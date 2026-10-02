@@ -1,0 +1,8 @@
+{
+  "name": "Remix KitchenCraft - Premium Kitchenware \u0026 Crockery",
+  "description": "Premium, beautiful and practical kitchenware designed for everyday cooking, dining and living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
